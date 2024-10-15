@@ -5,7 +5,10 @@ I’m Christer Holm, originally from the charming town of Ronneby, but I’ve ma
 I’m a programming language enthusiast and the founder of CodeForged Tech. I’ve got experience with a wide variety of programming languages and frameworks. Here’s a quick peek at my toolkit:
 
 Languages:
-
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 Python ,
 JavaScript, 
 C# ,
