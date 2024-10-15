@@ -6,33 +6,36 @@ I’m a programming language enthusiast and the founder of CodeForged Tech. I’
 
 Languages:
 
-Python 
-JavaScript 
-C# ⚙
-Java 
-Swift 
-Kotlin 
-PHP 
-Ruby 
-TypeScript 
+Python ,
+JavaScript, 
+C# ,
+Java , 
+Swift ,
+Kotlin ,
+PHP ,
+Ruby ,
+TypeScript,
+Dart
+Go, 
 
 Frameworks & Libraries:
 
-React
-Angular 
-Vue.js
-Node.js 
-Django 
-Flask
-ASP.NET 
-Spring Boot 
-Express.js 
-Laravel 
-Bootstrap 
+React,
+Angular, 
+Vue.js,
+Node.js, 
+Django,
+Flask,
+ASP.NET,
+Spring Boot, 
+Express.js, 
+next.js,
+Laravel, 
+Bootstrap, 
 Tailwind CSS 
 
 I love building things, experimenting with new tech, and solving tricky problems. Whether it’s frontend magic ✨ or backend wizardry 🧙‍♂️, I’m ready to dive in!
 
-When I'm not wrestling with code, you can probably find me exploring my new surroundings in Hofors or perfecting the art of fika. ☕🍰
+When I'm not wrestling with code, you can probably find me exploring my new surroundings in Hofors or perfecting the art of Coffee.
 
 Let’s build something awesome together!
