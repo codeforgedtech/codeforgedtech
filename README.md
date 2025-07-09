@@ -18,6 +18,11 @@ I’m a programming language enthusiast and the founder of CodeForged Tech. I’
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=fff)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=fff)
+
 
 #### Frameworks & Libraries:
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
@@ -33,6 +38,8 @@ I’m a programming language enthusiast and the founder of CodeForged Tech. I’
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=fff)
+![OpenAPI](https://img.shields.io/badge/-OpenAPI-6BA539?logo=openapiinitiative&logoColor=fff)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=000)
 
 
 I love building things, experimenting with new tech, and solving tricky problems. Whether it’s frontend magic ✨ or backend wizardry 🧙‍♂️, I’m ready to dive in!
